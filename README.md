@@ -1,0 +1,6 @@
+- Designed and fabricated a fully differential Gm-cell with 20dB DC gain and 400MHz bandwidth for active filter applications.
+- Implemented Gm using inverter-based Nauta’s architecture in TSMC 180nm CMOS technology on Cadence Virtuoso.
+- Designed a fully differential biquad filter to emulate passive inductors and resistors with a power consumption of 10 mW.
+- Realized a 6th order low-pass filter by cascading biquads, resulting in roll-off of 120 dB/dec with cutoff frequency of 10MHz.
+- Utilised common centroid matching technique for capacitors layout and performed post-layout simulations.
+- Designed an inverter chain and common-drain buffers to overcome oscilloscope loading, and decoupling capacitors were added.
